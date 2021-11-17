@@ -1,0 +1,21 @@
+{
+  "online": [
+    {
+      "ip": "54.193.1.1",
+      "user": "hadoop",
+      "authMethod": "pem",
+      "port": "22",
+      "authToken": "/home/xxxx/xxxx.pem",
+      "desc": "emr-yarn"
+    }
+  ],
+  "test": [
+    {
+      "ip": "10.0.3.151",
+      "user": "root",
+      "port": "22",
+      "authMethod": "password",
+      "authToken": "1q2w3e4r5t"
+    }
+  ]
+}
