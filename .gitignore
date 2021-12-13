@@ -2,3 +2,6 @@ dist/
 test.txt
 .idea
 .DS_Store
+go.mod
+go.mod/*
+go.sum
